@@ -2,7 +2,7 @@
 **Datasets**: GSE57387 (biopsy) & GSE46474 (blood)  
 **Language**: R | **Libraries**: limma, caret, tidyverse, ggplot2
 
-[![View HTML Report](https://img.shields.io/badge/📄%20View%20Report-Click%20Here-brightgreen?style=flat-square)](https://maiminhhh.github.io/kidney-transplant-rejection-eda/)
+[![View HTML Report](https://img.shields.io/badge/📄%20View%20Report-Click%20Here-brightgreen?style=flat-square)](https://maiminhhh.github.io/kidney-transplant-prediction-eda/)
 
 This project explores how gene expression data can be used to understand and predict kidney transplant outcomes. It demonstrates a complete data science workflow—from raw bioinformatics data to interpretable models supporting clinical decision-making.
 
